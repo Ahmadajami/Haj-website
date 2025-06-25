@@ -153,7 +153,7 @@
                 {" "}
                 {new Date().getFullYear()}
                 {" "}
-                <a href="/" class="cursor-pointer">Svee UI</a>
+                <a href="/" class="cursor-pointer">HAJ Agency</a>
                 . All Rights Reserved.
             </span>
         </div>
