@@ -52,7 +52,7 @@
 >
     <!-- {#if innerWidth < 768} -->
     <div class="container flex h-14 items-center justify-between">
-        <a class="text-md flex items-center" href="/"> Svee UI </a>
+        <a class="text-md flex items-center" href="/"> HAJ@ Agency </a>
 
         <div class="ml-auto flex h-full items-center">
             <Button
